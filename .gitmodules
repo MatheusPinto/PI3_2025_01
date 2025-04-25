@@ -1,0 +1,15 @@
+[submodule "grupo1"]
+	path = grupo1
+	url = https://github.com/LeoBeche/PI3-2025-1.git
+[submodule "grupo3"]
+	path = grupo3
+	url = https://github.com/Jaumm111/PI3-2025-1.git
+[submodule "grupo4"]
+	path = grupo4
+	url = https://github.com/giovannaliiz/PI3-2025-1
+[submodule "grupo5"]
+	path = grupo5
+	url = https://github.com/imperes/PI3-2025-1
+[submodule "grupo6"]
+	path = grupo6
+	url = https://github.com/AndreOuti/Analisador-de-Pele.git
