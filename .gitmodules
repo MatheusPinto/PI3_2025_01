@@ -13,3 +13,6 @@
 [submodule "grupo6"]
 	path = grupo6
 	url = https://github.com/AndreOuti/Analisador-de-Pele.git
+[submodule "grupo2"]
+	path = grupo2
+	url = https://github.com/beatrizm18/PI3-2025-1.git
