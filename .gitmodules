@@ -16,3 +16,9 @@
 [submodule "grupo2"]
 	path = grupo2
 	url = https://github.com/beatrizm18/PI3-2025-1.git
+[submodule "grupo6_s"]
+	path = grupo6_s
+	url = https://github.com/SofiaLee07/Analisador-de-Pele
+[submodule "grupo6_j"]
+	path = grupo6_j
+	url = https://github.com/pepeu321/Analisador-de-Pele.git
