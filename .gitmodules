@@ -9,7 +9,7 @@
 	url = https://github.com/giovannaliiz/PI3-2025-1
 [submodule "grupo5"]
 	path = grupo5
-	url = https://github.com/imperes/PI3-2025-1
+	url = https://github.com/imperes/PI3-2025-1.git
 [submodule "grupo6"]
 	path = grupo6
 	url = https://github.com/AndreOuti/Analisador-de-Pele.git
